@@ -10,4 +10,4 @@ Since the physical evaluation took a lot of time and each generation contained a
 
 Usually after about three generations, the robot started avoiding the "drones", and a few more generations it survived for minutes in a relatively small place.
 
-The "drones" were programmed in the basic NXTG language, the robot was running a modified linux kernel, and ran the community made operating system EV3-DEV (the development of which I got involved for a short period of time)
+The "drones" were programmed in the basic NXTG language, the robot was running a modified linux kernel, and ran the community made operating system EV3-DEV (the development of which I slightly got involved for a short period of time)
